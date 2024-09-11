@@ -1,4 +1,4 @@
-# Docker container of a library (graph-tool) + VSCode extensions: GitHub Python, Jupyter Notebook, GitHub Copilot 
+# Docker container of a library (graph-tool) + VSCode extensions: GitHub Copilot, Jupyter Notebook, Python
 Tutorial to running a Python library (here: `graph-tool`, which is not available on Windows) in VSCode using Docker containers with extensions: Jupyter Notebooks (inside VSCode) and Github Copilot for fast code completion.
 
 This way, one can use the library on Windows in a container, and keep the benefits of using tools such as GitHub Copilot to develop quicker.
